@@ -10,6 +10,7 @@ Hi - I'm Sumit. I graduated in 2018 from the [University of Pennsylvania](https:
 
 * [Books](https://www.notion.so/7fbf5842423a4883ba620c13993c560d?v=865b22453bdb4162bf9e102d7bff7d81)
 * [Long Reads](https://www.notion.so/Long-Reads-8300c626c2614d92b8eb827298332b2b)
+* [Newsletters](https://www.notion.so/f589b5886c0144a19ddfdd723a18b1be?v=eb77e9db565f46e78276aa88c04f8187)
 * [Technical Reads](https://www.notion.so/Technical-Reads-1e7993c7cd8f42c6816f97545a4b1c78)
 
 ## Watching
