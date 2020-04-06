@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi - I'm Sumit. I graduated in 2018 from the University of Pennsylvania and am currently a software engineer at Facebook working on location platform.
+Hi - I'm Sumit. I graduated in 2018 from the [University of Pennsylvania](https://www.upenn.edu/) with a BS and MS  in Computer Science. I currently work as a software engineer on the location platform team at [Facebook](https://www.facebook.com/).
 
 ## Reading
 
