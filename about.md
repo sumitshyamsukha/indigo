@@ -20,7 +20,7 @@ Hi - I'm Sumit. I graduated in 2018 from the [University of Pennsylvania](https:
 ## Cooking
 
 * [Recipes](https://www.notion.so/5ed12af3f86048c1b391525afeb0bd8a?v=be557509852b41ebabcc0f9335da07d7)
-* [What I'm Cooking This Week](https://www.notion.so/What-I-m-Cooking-This-Week-98fd58b0c0dd47eb9917eedfa6d32b26)
+* [What I'm Cooking This Week](https://www.notion.so/What-I-m-Cooking-This-Week-6adeaa78f5b54af394cec7ddf8c16fc2)
 
 ## Games 
 
