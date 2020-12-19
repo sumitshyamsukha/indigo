@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi - I'm Sumit. I graduated in 2018 from the [University of Pennsylvania](https://www.upenn.edu/) with a BS and MS  in Computer Science. I currently work as a software engineer on the location platform team at [Facebook](https://www.facebook.com/).
+Hi - I'm Sumit. I graduated from the [University of Pennsylvania](https://www.upenn.edu/) with a BS and MS in computer science. I currently work as a software engineer on the business integrity team at [WhatsApp](https://www.whatsapp.com/).
 
 ## Reading
 
@@ -20,8 +20,7 @@ Hi - I'm Sumit. I graduated in 2018 from the [University of Pennsylvania](https:
 ## Cooking
 
 * [Recipes](https://www.notion.so/5ed12af3f86048c1b391525afeb0bd8a?v=be557509852b41ebabcc0f9335da07d7)
-* [What I'm Cooking This Week](https://www.notion.so/What-I-m-Cooking-This-Week-6adeaa78f5b54af394cec7ddf8c16fc2)
 
-## Games 
+## Games
 
 * [Online Games](https://www.notion.so/7b4a7fb1cc194c1f9f10b45dcb8fca91?v=1ccedb12a3bb4fe39b72b2ff33b92625)
