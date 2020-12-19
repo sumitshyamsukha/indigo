@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-Hi - I'm Sumit. I graduated from the [University of Pennsylvania](https://www.upenn.edu/) with a BS and MS in computer science. I currently work as a software engineer on the business integrity team at [WhatsApp](https://www.whatsapp.com/).
+Hi - I'm Sumit. I graduated from the [University of Pennsylvania](https://www.upenn.edu/) with a BS and MS in computer science and currently work as a software engineer on the business integrity team at [WhatsApp](https://www.whatsapp.com/).
 
 ## Reading
 
@@ -24,3 +24,7 @@ Hi - I'm Sumit. I graduated from the [University of Pennsylvania](https://www.up
 ## Games
 
 * [Online Games](https://www.notion.so/7b4a7fb1cc194c1f9f10b45dcb8fca91?v=1ccedb12a3bb4fe39b72b2ff33b92625)
+
+## Music
+
+* [SoundCloud](https://soundcloud.com/sumit-shyamsukha)
